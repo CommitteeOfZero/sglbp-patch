@@ -21,7 +21,7 @@
             ],
             "uninstallProductKey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\SteinsGateLinearBoundedPhenogramSteamPatch",
             "uninstallProductDisplayName": "Steins;Gate Linear Bounded Phenogram Steam Patch",
-            "uninstallProductDisplayVersion": "1.0.0",
+            "uninstallProductDisplayVersion": "1.0.1",
             "uninstallProductVersionMajor": 1,
             "uninstallProductVersionMinor": 0,
             "uninstallProductUninstallString": "\"%GAME_PATH%/nguninstall.exe\"",
@@ -37,7 +37,7 @@
     },
     "playShortcut": {
         "displayName": "Steins;Gate Linear Bounded Phenogram (Steam Patch)",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "targetPath": "%LAUNCHERENG_PATH%",
         "workingDir": "%GAME_PATH%",
         "tooltip": "Play Steins;Gate Linear Bounded Phenogram (Steam Patch)",

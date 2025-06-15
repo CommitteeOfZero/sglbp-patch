@@ -1,8 +1,8 @@
 {
     "__schema_version": 2,
     "appdatadir": "Committee of Zero\\SGLBPSteam",
-    "patchName": "[CoZ] STEINS;GATE: Linear Bounded Phenogram Improvement Patch (1.0.0)",
-    "patchVersion": "1.0.0",
+    "patchName": "[CoZ] STEINS;GATE: Linear Bounded Phenogram Improvement Patch (1.0.1)",
+    "patchVersion": "1.0.1",
     "base": {
         "hookText": true,
         "improveDialogueOutlines": false,
@@ -142,7 +142,7 @@
         "chapterNames": [
             "              DR. JEKYLL ON SCANLINES",
             "        GORGEOUS VIRTUAL FEMME FATALE",
-            "                   VERMILLION SOTERIA",
+            "                    VERMILION SOTERIA",
             "                  GHOSTING RENDEZVOUS",
             "   THE REQUIEM OF A WIDOWER,S SCRAPER",
             "           PINK PHANTOMATIC CHAT NOIR",

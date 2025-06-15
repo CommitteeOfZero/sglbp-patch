@@ -1,6 +1,6 @@
 STEINS;GATE: Linear Bounded Phenogram Improvement Patch
 Committee of Zero
-Version 1.0.0 - October 15, 2024
+Version 1.0.1 - Month X, 202X
 ==============================
 https://sonome.dareno.me
 https://twitter.com/CommitteeOf0
