@@ -72,6 +72,9 @@ function DoTx() {
     section.removeDirectory('%CONFIG_LOCATION%');
     section.removeDirectory('%COZ_CONFIG_LOCATION%', true);
   }
+
+  section.removeFile('%STEAM_PATH%/appcache/stats/UserGameStatsSchema_930910.bin')
+
   section.rollbackReceipt();
 
   ng.tx.run();
